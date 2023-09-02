@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[(https://app-development-expert-dallas.weebly.com/uploads/7/7/9/9/77992566/web-development_orig.gif)]
+[![MasterHead](https://app-development-expert-dallas.weebly.com/uploads/7/7/9/9/77992566/web-development_orig.gif)]
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
